@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[33054],{33054:e=>{e.exports=JSON.parse('{"filePath":"/home/runner/work/refine/refine/packages/mui/src/index.tsx","description":"","displayName":"Layout","props":{},"generatedAt":1679396976291}')}}]);
