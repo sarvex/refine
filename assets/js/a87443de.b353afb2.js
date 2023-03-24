@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[69971],{39975:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/tutorial/page/2","page":2,"postsPerPage":12,"totalPages":2,"totalCount":23,"previousPage":"/blog/tags/tutorial","blogDescription":"A Docusaurus powered blog!","blogTitle":"Blog"}')}}]);
