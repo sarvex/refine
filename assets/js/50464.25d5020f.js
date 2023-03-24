@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocumentation=self.webpackChunkdocumentation||[]).push([[50464],{50464:e=>{e.exports=JSON.parse('{"filePath":"/home/runner/work/refine/refine/packages/mantine/src/index.tsx","description":"","displayName":"Layout","props":{},"generatedAt":1679669374579}')}}]);
