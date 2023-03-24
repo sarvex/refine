@@ -1,0 +1,5 @@
+packages:
+  - "examples/*"
+  - "packages/*"
+  - "!examples/blog-sveltekit-crud"
+  - "!packages/react-router"
